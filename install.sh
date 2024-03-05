@@ -75,4 +75,3 @@ initialCheck
 
 # Check if OpenVPN is already installed
 # Modify this part accordingly based on how OpenVPN was installed on Debian 11
-
